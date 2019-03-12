@@ -7,5 +7,8 @@ Samit is a statistician.
 
 We will need to determine who is responsible for what.
 
-It's likley we will need a research software engineer with Python or R programming skills too.
+It's likley we will need a research software engineer with Python or R programming skills too. They will also need to be familiar  with 
+maptotlib .
+
+version cotrol skills will be useful, as the ability to use GitHub.
  
