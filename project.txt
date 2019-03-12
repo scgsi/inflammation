@@ -12,3 +12,5 @@ maptotlib .
 
 version cotrol skills will be useful, as the ability to use GitHub.
 we may also use Gitlab and Bitbucket. 
+
+We will also need a admistrator assistance.
