@@ -5,4 +5,7 @@ Some initial data analysis to identify inflammation changes over time after surg
 JANe is a data scientist.
 Samit is a statistician.
 
-We will need to determine who is responsible for what. 
+We will need to determine who is responsible for what.
+
+It's likley we will need a research software engineer with Python or R programming skills too.
+ 
