@@ -1,3 +1,8 @@
 Project outline 
 =================
 Some initial data analysis to identify inflammation changes over time after surgery.
+
+JANe is a data scientist.
+Samit is a statistician.
+
+We will need to determine who is responsible for what. 
